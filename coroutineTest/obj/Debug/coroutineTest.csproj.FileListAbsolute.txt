@@ -1,0 +1,6 @@
+E:\projects\coroutineTest\coroutineTest\bin\Debug\coroutineTest.exe.config
+E:\projects\coroutineTest\coroutineTest\obj\Debug\coroutineTest.csprojResolveAssemblyReference.cache
+E:\projects\coroutineTest\coroutineTest\bin\Debug\coroutineTest.exe
+E:\projects\coroutineTest\coroutineTest\bin\Debug\coroutineTest.pdb
+E:\projects\coroutineTest\coroutineTest\obj\Debug\coroutineTest.exe
+E:\projects\coroutineTest\coroutineTest\obj\Debug\coroutineTest.pdb
